@@ -1,0 +1,6 @@
+{
+  "name": "TrustPay",
+  "description": "Adaptive fraud-prevention layer for banking apps with real-time trust scoring and dynamic verification friction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
